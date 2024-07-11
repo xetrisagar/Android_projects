@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Form</string>
+
+    <string-array name="courses">
+        <item>select course</item>
+        <item>bca</item>
+        <item>bbs</item>
+        <item>b.e.d</item>
+        <item>csit</item>
+        <item>no-one</item>
+    </string-array>
+</resources>
